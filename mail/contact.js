@@ -2,9 +2,9 @@ $(function () {
 
     $("#contactForm input, #contactForm textarea").jqBootstrapValidation({
         preventSubmit: true,
-        submitError: function ($form, event, errors) {
+        submitError: function (_$form, _event, errors) {
         },
-        submitSuccess: function ($form, event) {
+        submitSuccess: function (_$form, event) {
             event.preventDefault();
             var name = $("input#name").val();
             var email = $("input#email").val();
