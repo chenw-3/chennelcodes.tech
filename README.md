@@ -1,3 +1,3 @@
 # Updated-portfolio
 
-Thi sis the new and improved version of my portfolio for both recruiters and clients!
+Portfolio as of May 31, 2023.
